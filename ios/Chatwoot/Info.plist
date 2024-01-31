@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>Chatwoot</string>
+	<string>Helpline Chat</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -28,14 +28,14 @@
 	<dict>
 		<key>NSExceptionDomains</key>
 		<dict>
-			<key>applinks:app.chatwoot.com</key>
+			<key>applinks:staging.callcenter.africa</key>
 			<dict>
 				<key>NSExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 				<key>NSIncludesSubdomains</key>
 				<true/>
 			</dict>
-			<key>applinks:staging.chatwoot.com</key>
+			<key>applinks:web.callcenter.africa</key>
 			<dict>
 				<key>NSExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
