@@ -1,6 +1,6 @@
 {
   "name": "@chatwoot/mobile-app",
-  "version": "1.10.26",
+  "version": "1.10.40",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
@@ -33,8 +33,8 @@
   },
   "dependencies": {
     "@chatwoot/react-native-widget": "^0.0.18",
-    "@chatwoot/utils": "^0.0.21",
-    "@gorhom/bottom-sheet": "^4.4.7",
+    "@chatwoot/utils": "^0.0.24",
+    "@gorhom/bottom-sheet": "^4.5.1",
     "@kesha-antonov/react-native-action-cable": "^1.1.4",
     "@react-native-async-storage/async-storage": "^1.19.2",
     "@react-native-clipboard/clipboard": "^1.6.0",
@@ -67,7 +67,7 @@
     "react-native-config": "^1.5.1",
     "react-native-controlled-mentions": "^2.2.5",
     "react-native-device-info": "^10.9.0",
-    "react-native-document-picker": "5.0.0",
+    "react-native-document-picker": "9.1.1",
     "react-native-exception-handler": "^2.10.10",
     "react-native-fast-image": "^8.6.3",
     "react-native-gesture-handler": "^2.12.1",
